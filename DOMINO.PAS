@@ -1,6 +1,6 @@
 { @author: Sylvain Maltais (support@gladir.com)
   @created: 2025
-  @website(https://www.gladir.com/7iles)
+  @website(https://www.gladir.com/domino-0)
   @abstract(Target: Turbo Pascal 7, Free Pascal 3.2)
   @description: Jeu de Domino classique contre l'ordinateur
 }
